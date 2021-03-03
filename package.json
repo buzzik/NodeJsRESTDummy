@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/buzzik/nodejs_api.git"
+        "url": "git+https://github.com/buzzik/NodeJsRESTDummy.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/buzzik/nodejs_api/issues"
+        "url": "https://github.com/buzzik/NodeJsRESTDummy/issues"
     },
-    "homepage": "https://github.com/buzzik/nodejs_api#readme",
+    "homepage": "https://github.com/buzzik/NodeJsRESTDummy#readme",
     "dependencies": {
         "body-parser": "^1.19.0",
         "express": "^4.17.1",
